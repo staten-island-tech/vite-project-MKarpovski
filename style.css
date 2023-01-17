@@ -1,5 +1,10 @@
-body{
-background-color: var() ;
-
-
-}
+const changeTheme = theme => {
+    if (theme === "dark") {
+      document.documentElement.style.setProperty("--primary-color", "#000");
+      document.documentElement.style.setProperty("--secondary-color", "#fff");
+    } else {
+      document.documentElement.style.setProperty("--primary-color", "#fff");
+      document.documentElement.style.setProperty("--secondary-color", "#000");
+    }
+  };
+  
