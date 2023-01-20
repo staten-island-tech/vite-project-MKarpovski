@@ -13,11 +13,7 @@ const products = [
       image: ,
       price:14.99 ,
       category:Phone_accesory , 
-    }
-     {name:Arizona_green_tea ,
-      image: ,
-      price:1.00 ,
-      category:Beverage , 
+  
     }
      {name:Pop_socket ,
       image: ,
@@ -104,55 +100,3 @@ const products = [
       price: 189.99,
       category: , 
     }
-     {name:Star_wars_toy,
-      image: ,
-      price:22.49 ,
-      category:toys,entertainment , 
-    }
-     {name:Netgear_router,
-      image: ,
-      price:299.99 ,
-      category:Home , 
-    }
-     {name:Nest_hub,
-      image: ,
-      price:189.99 ,
-      category:ho , 
-    }
-     {name:Google_Nest_camera,
-      image: ,
-      price:269.99 ,
-      category:home , 
-    }
-     {name:Amazon_Echo,
-      image: ,
-      price:44.99 ,
-      category:home , 
-    }
-     {name:,
-      image: ,
-      price: ,
-      category: , 
-    }
-     {name:,
-      image: ,
-      price: ,
-      category: , 
-    }
-     {name:,
-      image: ,
-      price: ,
-      category: , 
-    }
-     {name:,
-      image: ,
-      price: ,
-      category: , 
-    }
-     {name:,
-      image: ,
-      price: ,
-      category: , 
-    }
-    
-]
